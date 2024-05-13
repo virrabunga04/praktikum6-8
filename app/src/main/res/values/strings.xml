@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">praktikum6</string>
+    <string name="lihat">Lihat</string>
+    <string name="deskripsi">Deskripsi Resep</string>
+    <string name="nama">Nama Resep</string>
+    <string name="bahan_bahan">Bahan-Bahan:</string>
+    <string name="bahan">"A, B, C, D "</string>
+    <string name="langkah">Langkah:</string>
+    <string name="langkh">Kocok Telur dengan menambahkan sejumput Garam dan Sejumput Gula, Panaskan Minyak/Butter Masukkan Telur Balik jika bagian dalam telur kecoklatan Angkat dan tiriskan telur yang sudah matang</string>
+    <string name="keluar">Keluar</string>
+    <string name="nama_resep">Nama Resep</string>
+    <string name="desc">Deskripsi</string>
+    <string name="bahan2">Bahan-bahan</string>
+    <string name="langkah2">Langkah-Langkah</string>
+    <string name="unggah">Unggah Foto</string>
+    <string name="simpan">Simpan</string>
+    <string name="cancel">Cancel</string>
+</resources>
